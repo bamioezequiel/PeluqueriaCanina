@@ -57,6 +57,10 @@ Peluquería Canina es una aplicación de escritorio desarrollada en Java que per
 5. Ejecuta la aplicación desde la clase principal.
 
 ## 🖼️ Capturas de Pantalla
+![Peluquería Canina](https://imgur.com/SiKiKRu.png)
+![Peluquería Canina](https://imgur.com/jm0zpWr.png)
+![Peluquería Canina](https://imgur.com/0Wfy2ec.png)
+![Peluquería Canina](https://imgur.com/zLa1ebn.png)
 
 ## 📄 Enlaces Relacionados
 - 🔗 [Repositorio en GitHub](https://github.com/bamioezequiel/PeluqueriaCanina)
